@@ -18,3 +18,7 @@ A JavaScript-based Simon Says memory game focusing on game logic and user intera
 - Follow the sequence of colors
 - Repeat the sequence to advance levels
 - if you lose the game, press any key again to restart the game
+
+## Note
+- Keyboard-based game. Best experienced on desktop.
+- Mobile touch support is not implemented yet.
