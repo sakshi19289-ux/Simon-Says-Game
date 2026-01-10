@@ -1,4 +1,3 @@
-    alert("Currently, this game works only on desktop computers and is not supported on mobile phones.")
     let h3 = document.querySelector('h3');
     let h4 = document.querySelector('h4');
     
@@ -110,5 +109,6 @@ function reset(){
     gameSeq = [];
     level = 0;
 }
+
 
 
